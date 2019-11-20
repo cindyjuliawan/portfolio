@@ -1,0 +1,30 @@
+.navbar {
+	text-align: right;
+}
+.jumbotron {
+	background-image: url("img/jumbo1.jpg");
+	background-size: cover;
+	height: 770px;
+	text-align: center;
+	margin-top: 0px;
+}
+.jumbotron .display-4 {
+	color: pink;
+	margin-top: 120px;
+}
+.jumbotron .my-4{
+	color: pink;
+	border: 140;
+}
+.jumbotron p {
+	color: pink;
+	font-size: 30px;
+}
+.jumbotron hr{
+	border-width: 3px;
+	border-color: pink;
+	width: 70px;
+}
+.jumbotron .btn{
+	
+}
